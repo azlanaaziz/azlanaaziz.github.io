@@ -1,0 +1,239 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="UPLLao.com" resolutions="1x" timestamp="1482125613455">
+  <folder name="css">
+    <file name="site_global.css" crc="4286007218"/>
+    <file name="master_commonnavbar.css" crc="4189451107" ref="apartments:masterplan:medical-hub:boutique-hotel:hypermarket-diy:retail-mall:contact:media:china-square:premium-hotel:partnerships:shophouse:convention-center:313-business-park:investor-benefits:premium-outlet:talad-lao:location:budget-hotel"/>
+    <file name="apartments.css" crc="128628666" ref="apartments"/>
+    <file name="masterplan.css" crc="3994859532" ref="masterplan"/>
+    <file name="medical-hub.css" crc="407240638" ref="medical-hub"/>
+    <file name="boutique-hotel.css" crc="4056516036" ref="boutique-hotel"/>
+    <file name="hypermarket-diy.css" crc="4055357598" ref="hypermarket-diy"/>
+    <file name="retail-mall.css" crc="132787485" ref="retail-mall"/>
+    <file name="index.css" crc="510556707" ref="index"/>
+    <file name="contact.css" crc="285390850" ref="contact"/>
+    <file name="media.css" crc="285390850" ref="media"/>
+    <file name="china-square.css" crc="4191416152" ref="china-square"/>
+    <file name="premium-hotel.css" crc="3844523162" ref="premium-hotel"/>
+    <file name="partnerships.css" crc="520096349" ref="partnerships"/>
+    <file name="shophouse.css" crc="322098705" ref="shophouse"/>
+    <file name="convention-center.css" crc="3769453875" ref="convention-center"/>
+    <file name="313-business-park.css" crc="4137079222" ref="313-business-park"/>
+    <file name="investor-benefits.css" crc="285390850" ref="investor-benefits"/>
+    <file name="premium-outlet.css" crc="4085759266" ref="premium-outlet"/>
+    <file name="talad-lao.css" crc="3881841408" ref="talad-lao"/>
+    <file name="location.css" crc="94431767" ref="location"/>
+    <file name="budget-hotel.css" crc="329110826" ref="budget-hotel"/>
+  </folder>
+  <folder name="assets">
+    <file name="--mt---toolbox---videos---full-browser-width-(1.1).mulib" crc="3834413592" seo="true" mt="1467115274000"/>
+    <file name="--mt---toolbox---videos---fullscreen-backgrounds-(l11.2).mulib" crc="503924654" seo="true" mt="1454755798000"/>
+    <file name="--mt---toolbox---videos---fullscreen-backgrounds-(1.1).mulib" crc="4074792162" seo="true" mt="1467115282000"/>
+    <file name="pattern1.png" crc="4254896379" seo="true" mt="1481597971000"/>
+    <file name="flythrough2bgvdo480codec264q30.mp4" crc="501123286" seo="true" mt="1481607315000"/>
+    <file name="flythrough2bgvdo480webmq63.webm" crc="206089742" seo="true" mt="1481614097000"/>
+    <file name="shophouse-1.png" crc="4276681429" seo="true" mt="1478522025000"/>
+    <file name="shophouse-2.png" crc="3898998249" seo="true" mt="1478522148000"/>
+    <file name="shophouse-3.png" crc="3925029992" seo="true" mt="1478522189000"/>
+    <file name="shophouse-4.png" crc="4289075667" seo="true" mt="1478522237000"/>
+    <file name="alternate-1.png" crc="345255389" seo="true" mt="1482116591000"/>
+    <file name="alternate-2.png" crc="4101064216" seo="true" mt="1482116606000"/>
+    <file name="alternate-3.png" crc="84883886" seo="true" mt="1482116616000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="museutils.js" crc="4148063285" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="whatinput.js" crc="86476730" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="webpro.js" crc="3986320349" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u19884.php" crc="4193213999" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:masterplan:location:partnerships:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="require.js" crc="4159430777" ref="index:masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="jquery.watch.js" crc="437028206" ref="masterplan:location:partnerships:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="form-u16390.php" crc="196474795" ref="masterplan"/>
+  </folder>
+  <folder name="images">
+    <file name="whatsapp image 2016-09-23 at 32908 pm.jpg" crc="4148471164" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:masterplan:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="china national chemical engineering.jpg" crc="4155281578" ref="index"/>
+    <file name="mustapa visit.jpg" crc="141006070" ref="index"/>
+    <file name="vientiane-nelamit-logo-white-border.svg" crc="159435730" seo="true" ref="index"/>
+    <file name="vientiane nelamit logo white border_poster_.png" crc="3804612042" ref="index"/>
+    <file name="313 basic white-orange.svg" crc="38967756" ref="index"/>
+    <file name="313 basic white-orange_poster_u4612.png" crc="161981711" ref="index"/>
+    <file name="upl lao logo.svg" crc="3908992401" ref="index"/>
+    <file name="upl lao logo_poster_u4663.png" crc="40684631" ref="index"/>
+    <file name="boutique hotel.svg" crc="440336443" ref="index:masterplan"/>
+    <file name="boutique hotel_poster_u5303.png" crc="3940065969" ref="index:masterplan"/>
+    <file name="budget hotel.svg" crc="3831206595" ref="index:masterplan"/>
+    <file name="budget hotel_poster_u5314.png" crc="4069770935" ref="index:masterplan"/>
+    <file name="integrated resort.svg" crc="427575908" ref="index:masterplan"/>
+    <file name="integrated resort_poster_u5391.png" crc="178448136" ref="index:masterplan"/>
+    <file name="premium outlet.svg" crc="233745481" ref="index:masterplan"/>
+    <file name="premium outlet_poster_u5340.png" crc="444490514" ref="index:masterplan"/>
+    <file name="theme park.svg" crc="4175888641" ref="index:masterplan"/>
+    <file name="theme park_poster_u5407.png" crc="484878713" ref="index:masterplan"/>
+    <file name="premium hotel.svg" crc="4087298380" ref="index:masterplan"/>
+    <file name="premium hotel_poster_u5508.png" crc="87857867" ref="index:masterplan"/>
+    <file name="retail.svg" crc="3836504393" ref="index:masterplan"/>
+    <file name="retail_poster_u5362.png" crc="389044067" ref="index:masterplan"/>
+    <file name="shophouse.svg" crc="4094545633" ref="index:masterplan"/>
+    <file name="shophouse_poster_u5307.png" crc="371666988" ref="index:masterplan"/>
+    <file name="china market.svg" crc="4021159082" ref="index:masterplan"/>
+    <file name="china market_poster_u5418.png" crc="4043608672" ref="index:masterplan"/>
+    <file name="talad lao.svg" crc="3892370303" ref="index:masterplan"/>
+    <file name="talad lao_poster_u5329.png" crc="4156942842" ref="index:masterplan"/>
+    <file name="retail mall.svg" crc="4199921952" ref="index:masterplan"/>
+    <file name="retail mall_poster_u5294.png" crc="433418409" ref="index:masterplan"/>
+    <file name="diy hypermarket.svg" crc="4272125926" ref="index:masterplan"/>
+    <file name="diy hypermarket_poster_u5359.png" crc="465948360" ref="index:masterplan"/>
+    <file name="office space.svg" crc="17107811" ref="index:masterplan"/>
+    <file name="office space_poster_u5386.png" crc="470856828" ref="index:masterplan"/>
+    <file name="313 business park.svg" crc="246718335" ref="index:masterplan"/>
+    <file name="313 business park_poster_u5423.png" crc="3934713163" ref="index:masterplan"/>
+    <file name="hospital.svg" crc="48457158" ref="index:masterplan"/>
+    <file name="hospital_poster_u5395.png" crc="4140632787" ref="index:masterplan"/>
+    <file name="residential.svg" crc="250108649" ref="index:masterplan"/>
+    <file name="residential_poster_u5312.png" crc="358980824" ref="index:masterplan"/>
+    <file name="businesspark (2).jpg" crc="4006925023" seo="true" ref="masterplan"/>
+    <file name="maravilla (7).png" crc="3892891043" seo="true" ref="masterplan"/>
+    <file name="shophouse 3.png" crc="4036456311" seo="true" ref="masterplan:shophouse"/>
+    <file name="hospital (2).png" crc="455945886" seo="true" ref="masterplan"/>
+    <file name="loading.gif" crc="3815509949" ref="masterplan:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="compass.svg" crc="4259957222" ref="masterplan"/>
+    <file name="compass_poster_u7409.png" crc="4272356395" ref="masterplan"/>
+    <file name="masterplan.svg" crc="469216062" ref="masterplan"/>
+    <file name="masterplan_poster_u7377.png" crc="468472558" ref="masterplan"/>
+    <file name="location.svg" crc="462853138" ref="masterplan"/>
+    <file name="location_poster_u7385.png" crc="256759071" ref="masterplan"/>
+    <file name="incentives.svg" crc="3956599724" ref="masterplan"/>
+    <file name="incentives_poster_u7674.png" crc="4197610226" ref="masterplan"/>
+    <file name="partners.svg" crc="4220541947" ref="masterplan"/>
+    <file name="partners_poster_u7417.png" crc="63829979" ref="masterplan"/>
+    <file name="media.svg" crc="363214005" ref="masterplan"/>
+    <file name="media_poster_u7425.png" crc="135784664" ref="masterplan"/>
+    <file name="retail.png" crc="4148421379" ref="masterplan"/>
+    <file name="leisure.png" crc="121587203" ref="masterplan"/>
+    <file name="office.png" crc="113025284" ref="masterplan"/>
+    <file name="residential.png" crc="3878823493" ref="masterplan"/>
+    <file name="boutique hotel2.svg" crc="87137233" ref="masterplan"/>
+    <file name="boutique hotel_poster_u19518.png" crc="48347828" ref="masterplan"/>
+    <file name="budget hotel2.svg" crc="213900348" ref="masterplan:budget-hotel"/>
+    <file name="budget hotel_poster_u9476.png" crc="3814990241" ref="masterplan:budget-hotel"/>
+    <file name="premium outlet2.svg" crc="3877065873" ref="masterplan:premium-outlet"/>
+    <file name="premium outlet_poster_u10201.png" crc="4279738816" ref="masterplan:premium-outlet"/>
+    <file name="theme park2.svg" crc="4119395275" ref="masterplan:convention-center"/>
+    <file name="theme park_poster_u10616.png" crc="141788401" ref="masterplan:convention-center"/>
+    <file name="premium hotel2.svg" crc="269119232" ref="masterplan:premium-hotel"/>
+    <file name="premium hotel_poster_u11046.png" crc="354797633" ref="masterplan:premium-hotel"/>
+    <file name="shophouse2.svg" crc="283155755" ref="masterplan:shophouse"/>
+    <file name="shophouse_poster_u18570.png" crc="151742286" ref="masterplan:shophouse"/>
+    <file name="china square talad lao.svg" crc="356136076" ref="masterplan:china-square:talad-lao"/>
+    <file name="china square talad lao_poster_u11497.png" crc="3789356081" ref="masterplan:china-square:talad-lao"/>
+    <file name="retail mall2.svg" crc="3908064938" ref="masterplan:retail-mall"/>
+    <file name="retail mall_poster_u13684.png" crc="4231153586" ref="masterplan:retail-mall"/>
+    <file name="diy hypermarket2.svg" crc="466714807" ref="masterplan:hypermarket-diy"/>
+    <file name="diy hypermarket_poster_u14118.png" crc="265002514" ref="masterplan:hypermarket-diy"/>
+    <file name="313 business park2.svg" crc="276906599" ref="masterplan:313-business-park"/>
+    <file name="313 business park_poster_u14242.png" crc="4168334574" ref="masterplan:313-business-park"/>
+    <file name="hospital2.svg" crc="509588060" ref="masterplan:medical-hub"/>
+    <file name="hospital_poster_u14343.png" crc="3943130677" ref="masterplan:medical-hub"/>
+    <file name="residential2.svg" crc="118989400" ref="masterplan:apartments"/>
+    <file name="residential_poster_u14478.png" crc="4022796052" ref="masterplan:apartments"/>
+    <file name="pattern1.png" crc="4254896379" ref="masterplan:location:investor-benefits:partnerships:media:contact:boutique-hotel:budget-hotel:premium-outlet:convention-center:premium-hotel:shophouse:china-square:talad-lao:retail-mall:hypermarket-diy:313-business-park:medical-hub:apartments"/>
+    <file name="catchmentmini.png" crc="4127299636" ref="location"/>
+    <file name="locationmini.png" crc="3942636185" ref="location"/>
+    <file name="map.svg" crc="3790393014" ref="location"/>
+    <file name="map_poster_u17861.png" crc="29598279" ref="location"/>
+    <file name="marketcatchment.svg" crc="3937518936" ref="location"/>
+    <file name="marketcatchment_poster_u18335.png" crc="50383983" ref="location"/>
+    <file name="partners png.jpg" crc="3926426005" ref="partnerships"/>
+    <file name="hotel (1).jpg" crc="3851861787" seo="true" ref="boutique-hotel:budget-hotel"/>
+    <file name="hotel (2).png" crc="527166218" seo="true" ref="boutique-hotel:budget-hotel"/>
+    <file name="hotel (6).jpg" crc="4108009307" seo="true" ref="boutique-hotel:budget-hotel"/>
+    <file name="hotel (7).jpg" crc="3878721935" seo="true" ref="boutique-hotel:budget-hotel"/>
+    <file name="hotel (8).jpg" crc="4157391771" seo="true" ref="boutique-hotel:budget-hotel"/>
+    <file name="boutique hotel3.svg" crc="87137233" ref="boutique-hotel"/>
+    <file name="boutique hotel_poster_u9106.png" crc="48347828" ref="boutique-hotel"/>
+    <file name="premium shopping (1).jpg" crc="4095231352" seo="true" ref="premium-outlet"/>
+    <file name="premium shopping (1)2.jpg" crc="4248382785" seo="true" ref="premium-outlet"/>
+    <file name="premium shopping (2).jpg" crc="1573004" seo="true" ref="premium-outlet"/>
+    <file name="premium shopping (3).jpg" crc="420666937" seo="true" ref="premium-outlet"/>
+    <file name="theme park convention (1).jpg" crc="3978088716" seo="true" ref="convention-center"/>
+    <file name="theme park convention (2).jpg" crc="3845617942" seo="true" ref="convention-center"/>
+    <file name="theme park convention (3).jpg" crc="3830922830" seo="true" ref="convention-center"/>
+    <file name="theme park convention (4).jpg" crc="3976234390" seo="true" ref="convention-center"/>
+    <file name="maravilla (6).png" crc="387941144" seo="true" ref="premium-hotel"/>
+    <file name="maravilla (1).png" crc="126706496" seo="true" ref="premium-hotel"/>
+    <file name="maravilla (8).png" crc="231187380" seo="true" ref="premium-hotel"/>
+    <file name="view 1.png" crc="500700361" seo="true" ref="premium-hotel"/>
+    <file name="view 3.png" crc="3982985802" seo="true" ref="premium-hotel"/>
+    <file name="friedmutter.jpg" crc="525415515" ref="premium-hotel"/>
+    <file name="starwood.png" crc="11594549" ref="premium-hotel"/>
+    <file name="shophouse 1.png" crc="163332681" seo="true" ref="shophouse"/>
+    <file name="shophouse 2.png" crc="199628727" seo="true" ref="shophouse"/>
+    <file name="shophouse 4.png" crc="100428833" seo="true" ref="shophouse"/>
+    <file name="kyoob 1 (large).png" crc="87266335" seo="true" ref="shophouse"/>
+    <file name="kyoob 2 (large).png" crc="45272027" seo="true" ref="shophouse"/>
+    <file name="kyoob 3 (large).png" crc="193890972" seo="true" ref="shophouse"/>
+    <file name="chinasquare (1).jpg" crc="110322197" seo="true" ref="china-square"/>
+    <file name="chinasquare (2).jpg" crc="401988859" seo="true" ref="china-square"/>
+    <file name="chinasquare (3).jpg" crc="240221219" seo="true" ref="china-square"/>
+    <file name="chinasquare (4).jpg" crc="3883254517" seo="true" ref="china-square"/>
+    <file name="talad lao (1).jpg" crc="118647160" seo="true" ref="talad-lao"/>
+    <file name="talad lao (1).png" crc="3872026265" seo="true" ref="talad-lao"/>
+    <file name="talad lao (2).jpg" crc="4258455067" seo="true" ref="talad-lao"/>
+    <file name="talad lao (2).png" crc="4130414696" seo="true" ref="talad-lao"/>
+    <file name="talad lao (3).jpg" crc="328336436" seo="true" ref="talad-lao"/>
+    <file name="retail mall (1).jpg" crc="3796318574" seo="true" ref="retail-mall"/>
+    <file name="retail mall (2).jpg" crc="3954666" seo="true" ref="retail-mall"/>
+    <file name="retail mall 4.png" crc="3859078037" seo="true" ref="retail-mall"/>
+    <file name="retail mall (4).jpg" crc="4022256109" seo="true" ref="retail-mall"/>
+    <file name="7.jpg" crc="3989848393" seo="true" ref="hypermarket-diy"/>
+    <file name="1.jpg" crc="452676567" seo="true" ref="hypermarket-diy"/>
+    <file name="2.jpg" crc="1006679" seo="true" ref="hypermarket-diy"/>
+    <file name="3.jpg" crc="259349341" seo="true" ref="hypermarket-diy"/>
+    <file name="4.jpg" crc="4247493325" seo="true" ref="hypermarket-diy"/>
+    <file name="5.jpg" crc="179537004" seo="true" ref="hypermarket-diy"/>
+    <file name="festive market (1).jpg" crc="440579725" seo="true" ref="hypermarket-diy"/>
+    <file name="festive market (2).jpg" crc="179537004" seo="true" ref="hypermarket-diy"/>
+    <file name="festive market (3).jpg" crc="3989848393" seo="true" ref="hypermarket-diy"/>
+    <file name="businesspark (1).png" crc="3913809122" seo="true" ref="313-business-park"/>
+    <file name="businesspark (2)2.jpg" crc="158370692" seo="true" ref="313-business-park"/>
+    <file name="businesspark (3).jpg" crc="4151424978" seo="true" ref="313-business-park"/>
+    <file name="businesspark (4).png" crc="4143234825" seo="true" ref="313-business-park"/>
+    <file name="hospital (1).png" crc="4050508163" seo="true" ref="medical-hub"/>
+    <file name="hospital (2)2.png" crc="455945886" seo="true" ref="medical-hub"/>
+    <file name="hospital (3).png" crc="185141360" seo="true" ref="medical-hub"/>
+    <file name="parkway pantai.svg" crc="4289584076" ref="medical-hub"/>
+    <file name="parkway pantai_poster_u14353.png" crc="182964774" ref="medical-hub"/>
+    <file name="resdential (2).jpg" crc="4076755908" seo="true" ref="apartments"/>
+    <file name="residential (41).png" crc="397402058" seo="true" ref="apartments"/>
+    <file name="resdential (3).jpg" crc="268653436" seo="true" ref="apartments"/>
+    <file name="resdential (4).jpg" crc="247139115" seo="true" ref="apartments"/>
+  </folder>
+  <file name="index.html" crc="3950321818" seo="true" mt="1482125517570" redirect="true"/>
+  <file name="masterplan.html" crc="243908554" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="location.html" crc="368530820" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="investor-benefits.html" crc="295680038" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="partnerships.html" crc="4090310019" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="media.html" crc="3860364883" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="contact.html" crc="4219966195" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="boutique-hotel.html" crc="9544073" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="budget-hotel.html" crc="393438256" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="premium-outlet.html" crc="3927015945" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="convention-center.html" crc="191041211" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="premium-hotel.html" crc="234464304" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="shophouse.html" crc="459834366" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="china-square.html" crc="485459443" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="talad-lao.html" crc="126959692" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="retail-mall.html" crc="4171457483" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="hypermarket-diy.html" crc="3823057075" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="313-business-park.html" crc="4147847120" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="medical-hub.html" crc="3922916035" seo="true" mt="1482124745927" redirect="true"/>
+  <file name="apartments.html" crc="4129485974" seo="true" mt="1482124745927" redirect="true"/>
+</manifest>
